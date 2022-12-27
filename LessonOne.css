@@ -3,6 +3,36 @@
 }
 
 a{
-    text-decoration: none;
-    color: black;
+  text-decoration:none ;
+}
+
+
+img{
+  width: 300px;
+  height:200px;
+}
+
+div{
+  background-color: brown;
+}
+
+.firstDiv{
+  background-color: pink;
+  
+}
+
+#SecondDiv{
+  background-color: rgb(188, 141, 188)
+}
+
+h1{
+  font-style: italic;
+  font-family: monospace;
+  color: blue
+}
+
+#title{
+  font-style: normal;
+  font-size: 65px;
+  font-family: Arial, Helvetica, sans-serif;
 }
